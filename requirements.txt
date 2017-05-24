@@ -16,8 +16,6 @@ backports.ssl-match-hostname==3.4.0.2
 bcdoc==0.13.0
 bcrypt==1.1.1
 bdist-mpkg==0.5.0
-BeautifulSoup==3.2.1
-beautifulsoup4==4.4.1
 billiard==3.3.0.20
 binaryornot==0.4.0
 blinker==1.3
