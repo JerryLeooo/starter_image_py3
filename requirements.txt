@@ -40,7 +40,6 @@ cssselect==0.9.1
 Cython==0.22
 decorator==4.0.10
 Django==1.11.1
-dnspod-python==0.1
 docker-compose==1.1.0
 docker-py==0.7.2
 dockerpty==0.3.2
